@@ -1,3 +1,9 @@
+npx create-react-app voice-modification-app
+cd voice-modification-app
+npm install axios
+npm start
+
+
 import React, { useState } from 'react';
 import axios from 'axios';
 
