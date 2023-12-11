@@ -1,0 +1,22 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+.input-section {
+  margin-bottom: 15px;
+}
+
+.button-section {
+  margin-top: 15px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 15px;
+}
+
+.result-section {
+  margin-top: 20px;
+}
